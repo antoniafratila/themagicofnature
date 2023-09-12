@@ -1,0 +1,13 @@
+.navbar.bg-body-tertiary {
+    background-color: white !important;
+}
+.navbar-nav .nav-link {
+    color:#000000;
+    font-size: 23px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .navbar-nav .dropdown-menu .dropdown-item {
+    color:#000000;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }

@@ -1,0 +1,32 @@
+.navbar-expand-lg{
+    background-color: rgb(255, 255, 255);
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    color:#000000;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 30px;
+}
+.navbar-brand{
+    margin: auto;
+    margin-top: 20px;
+    background-image: url('../../../assets/img/logo.jpg');
+}
+.navbar-brand img{
+    width: 160px;
+    height: 140px;
+    transform: translateX(-50%);
+    left: 50%;
+    position: absolute;
+    margin-top: -35px;
+}
+.navbar-toggler-icon{
+    background-color: #ede8db;
+}
+.dropdown-menu{
+    background-color: rgb(255, 255, 255);
+    color:#000000;
+    font-size: 37px;
+    font-family: Brush Script MT;
+    padding: 30px;
+}

@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(226, 226, 226);
+  }
+  
+  img {
+    height: 800px;
+    width: 600px;
+    padding: 30px;
+  }
+  
+  .image {
+    flex-basis: 50%
+  }
+  
+  .text {
+    font-size: 20px;
+    padding-left: 20px;
+  }
+  @media screen and (max-width: 500px) {
+    
+    .container {
+        width: 70%;
+    }
+  }
+  
+  
